@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import org.apache.solr.client.solrj.beans.Field;
 
 public class TbGoods implements Serializable{
-	//sadas
+	//sadass
 	@Field
     private Long id;
 	@Field
